@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T14:06:48.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="wJXzrO_lhzUkJs-54a8q" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T14:08:47.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="vjqoNfRc65Kh0zQ2xX8E" version="21.6.3" type="github">
   <diagram id="Z6GCsgAM9sSRzU8jWJJ7" name="Page-1">
     <mxGraphModel dx="2049" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-1" target="Hjk3yY-HpInA2s5WbHgZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-1" value="3.0 Proses Masuk Barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-1" value="6.0 Proses Masuk Barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="1005" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-2" target="Hjk3yY-HpInA2s5WbHgZ-1" edge="1">
@@ -118,7 +118,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-4" value="4.0 Proses Keluar Barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-4" value="7.0 Proses Keluar Barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="1175" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-5" target="q7wcvHRCBRjbpm3dKiPZ-1" edge="1">
@@ -129,7 +129,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-5" value="5.0 Proses Report" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-5" value="8.0 Proses Report" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="430" y="1460" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q7wcvHRCBRjbpm3dKiPZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q7wcvHRCBRjbpm3dKiPZ-1" target="q7wcvHRCBRjbpm3dKiPZ-2" edge="1">
