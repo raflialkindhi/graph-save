@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T12:18:09.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="xYi8j9BNTLFdxxfCoZhk" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T12:24:36.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="LK3cmnaXxeSfVwk9iX4f" version="21.6.3" type="github">
   <diagram id="Z6GCsgAM9sSRzU8jWJJ7" name="Page-1">
     <mxGraphModel dx="1509" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-3" target="Hjk3yY-HpInA2s5WbHgZ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-21" value="&lt;div&gt;barang_masuk&lt;/div&gt;&lt;div&gt;stock_barang&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-19" vertex="1" connectable="0">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-21" value="&lt;div&gt;barang_masuk&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-19" vertex="1" connectable="0">
           <mxGeometry x="0.3691" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -73,16 +73,8 @@
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-5" target="q7wcvHRCBRjbpm3dKiPZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-20" value="laporan_barang" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-18" vertex="1" connectable="0">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-20" value="&lt;div&gt;laporan_barang_masuk&lt;/div&gt;&lt;div&gt;laporan_barang_keluar&lt;/div&gt;&lt;div&gt;laporan_stok_barang&lt;/div&gt;&lt;div&gt;laporan_supplier&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-18" vertex="1" connectable="0">
           <mxGeometry x="-0.1417" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="stu7WVIQXUIdbc0Hr7mn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-5" target="q7wcvHRCBRjbpm3dKiPZ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="stu7WVIQXUIdbc0Hr7mn-27" value="laporan_supplier" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="stu7WVIQXUIdbc0Hr7mn-26">
-          <mxGeometry x="-0.3305" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
