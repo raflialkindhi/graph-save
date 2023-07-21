@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T07:08:49.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Pspr67o3b0fzwUyptA6H" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T11:34:52.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SyvrlO8QZG1X09JdmF8n" version="21.6.3" type="github">
   <diagram id="DQqvc7xGPJHcMbatQZce" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="ol0iWD4KZcuWYdtjdaJJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ol0iWD4KZcuWYdtjdaJJ-2" target="ol0iWD4KZcuWYdtjdaJJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol0iWD4KZcuWYdtjdaJJ-9" value="&lt;div&gt;data_barang&lt;/div&gt;&lt;div&gt;data_lokasi&lt;/div&gt;&lt;div&gt;data_supplier&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ol0iWD4KZcuWYdtjdaJJ-6" vertex="1" connectable="0">
+        <mxCell id="ol0iWD4KZcuWYdtjdaJJ-9" value="&lt;div&gt;barang_masuk&lt;/div&gt;&lt;div&gt;barang_keluar&lt;/div&gt;&lt;div&gt;kategori_barang&lt;br&gt;&lt;/div&gt;&lt;div&gt;data_barang&lt;/div&gt;&lt;div&gt;data_gudang&lt;/div&gt;&lt;div&gt;data_supplier&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ol0iWD4KZcuWYdtjdaJJ-6" vertex="1" connectable="0">
           <mxGeometry x="0.0311" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -26,18 +26,18 @@
         <mxCell id="ol0iWD4KZcuWYdtjdaJJ-2" value="Staff Gudang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JMVHgfwaBOJz7yRU8Djf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JMVHgfwaBOJz7yRU8Djf-1" target="ol0iWD4KZcuWYdtjdaJJ-1">
+        <mxCell id="JMVHgfwaBOJz7yRU8Djf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JMVHgfwaBOJz7yRU8Djf-1" target="ol0iWD4KZcuWYdtjdaJJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JMVHgfwaBOJz7yRU8Djf-3" value="data_pengguna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMVHgfwaBOJz7yRU8Djf-2">
+        <mxCell id="JMVHgfwaBOJz7yRU8Djf-3" value="data_pengguna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JMVHgfwaBOJz7yRU8Djf-2" vertex="1" connectable="0">
           <mxGeometry x="-0.0545" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMVHgfwaBOJz7yRU8Djf-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMVHgfwaBOJz7yRU8Djf-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JMVHgfwaBOJz7yRU8Djf-4" value="Manager Gudang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMVHgfwaBOJz7yRU8Djf-4" value="Manager Gudang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
