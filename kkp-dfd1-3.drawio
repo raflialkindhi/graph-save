@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T12:12:36.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="vcXNosXM4iPwLT4IMUaa" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T14:21:48.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="gaZ4K-Odpl2jIxmQD471" version="21.6.3" type="github">
   <diagram name="Page-1" id="jHzI-dSTX2YVJ-ReJYV5">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hd8K9oajWOV2BBNPC74M-18" value="4.1 Menampilkan Barang yang terdata" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Hd8K9oajWOV2BBNPC74M-18" value="7.1 Menampilkan Barang yang terdata" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="260" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Hd8K9oajWOV2BBNPC74M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hd8K9oajWOV2BBNPC74M-21" target="Hd8K9oajWOV2BBNPC74M-27" edge="1">
@@ -47,7 +47,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hd8K9oajWOV2BBNPC74M-27" value="4.2 Proses Barang Keluar" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Hd8K9oajWOV2BBNPC74M-27" value="7.2 Proses Barang Keluar" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="430" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="P--2J8JvXFUGpnvOi-eG-1" value="Data Barang Keluar" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
