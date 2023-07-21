@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T12:35:00.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="eQE4U8jV8krZmQFCPcsY" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T12:41:55.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6U8XwacNxKqDIJ1fEsHu" version="21.6.3" type="github">
   <diagram id="Z6GCsgAM9sSRzU8jWJJ7" name="Page-1">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,14 +91,6 @@
         </mxCell>
         <mxCell id="q7wcvHRCBRjbpm3dKiPZ-1" value="Manager Gudang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="795" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QPWgkwAui-Ok-JEsNZ_f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q7wcvHRCBRjbpm3dKiPZ-5" target="QPWgkwAui-Ok-JEsNZ_f-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QPWgkwAui-Ok-JEsNZ_f-5" value="data_pengguna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QPWgkwAui-Ok-JEsNZ_f-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.2443" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="q7wcvHRCBRjbpm3dKiPZ-2" value="1.0 Proses Login" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="40" width="150" height="150" as="geometry" />
