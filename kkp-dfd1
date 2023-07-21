@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T11:47:15.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="CTVEfaTEcD88NVy-Tr1j" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T11:52:26.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="aemXJF7wZ8qodOlAr9mi" version="21.6.3" type="github">
   <diagram id="Z6GCsgAM9sSRzU8jWJJ7" name="Page-1">
     <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-2" target="Hjk3yY-HpInA2s5WbHgZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-7" value="&lt;div&gt;data_barang&lt;/div&gt;&lt;div&gt;data_lokasi&lt;/div&gt;&lt;div&gt;data_supplier&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-6" vertex="1" connectable="0">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-7" value="&lt;div&gt;data_barang&lt;/div&gt;&lt;div&gt;data_gudang&lt;/div&gt;&lt;div&gt;data_supplier&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-6" vertex="1" connectable="0">
           <mxGeometry x="0.1437" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-3" value="Data Barang Masuk" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-4" target="Hjk3yY-HpInA2s5WbHgZ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -67,10 +67,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="stu7WVIQXUIdbc0Hr7mn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-4" target="stu7WVIQXUIdbc0Hr7mn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stu7WVIQXUIdbc0Hr7mn-24" value="barang_keluar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="stu7WVIQXUIdbc0Hr7mn-23">
+          <mxGeometry x="0.2948" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-4" value="4.0 Proses Keluar Barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="635" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-5" target="q7wcvHRCBRjbpm3dKiPZ-1" edge="1">
+        <mxCell id="Hjk3yY-HpInA2s5WbHgZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-5" target="q7wcvHRCBRjbpm3dKiPZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-20" value="laporan_barang" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hjk3yY-HpInA2s5WbHgZ-18" vertex="1" connectable="0">
@@ -78,8 +86,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="stu7WVIQXUIdbc0Hr7mn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hjk3yY-HpInA2s5WbHgZ-5" target="q7wcvHRCBRjbpm3dKiPZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stu7WVIQXUIdbc0Hr7mn-27" value="laporan_supplier" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="stu7WVIQXUIdbc0Hr7mn-26">
+          <mxGeometry x="-0.3305" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hjk3yY-HpInA2s5WbHgZ-5" value="5.0 Proses Report" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="410" y="815" width="150" height="150" as="geometry" />
+          <mxGeometry x="430" y="920" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q7wcvHRCBRjbpm3dKiPZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q7wcvHRCBRjbpm3dKiPZ-1" target="q7wcvHRCBRjbpm3dKiPZ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -190,6 +206,9 @@
         </mxCell>
         <mxCell id="stu7WVIQXUIdbc0Hr7mn-9" value="Data Barang" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stu7WVIQXUIdbc0Hr7mn-20" value="Data Barang Keluar" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
