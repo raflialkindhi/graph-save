@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T16:26:25.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="UBxIdi6UJEZAxMKFys_f" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T16:40:53.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="y6tRS7YNbBhMB4m23j7G" version="21.6.6" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -19,17 +19,8 @@
         <mxCell id="677b7b8949515195-28" value="Your Ticket" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="286" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-29" value="Settings" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="40" y="321" width="170" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ANWuifFla7BpCBD28VUD-1" value="LOGO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="65" y="60" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ANWuifFla7BpCBD28VUD-3" value="Profile" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="60" y="350" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ANWuifFla7BpCBD28VUD-4" value="Change Password" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="60" y="375" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ANWuifFla7BpCBD28VUD-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="286" width="330" height="160" as="geometry" />
