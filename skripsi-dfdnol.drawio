@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T22:23:44.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="6Sr2nCXpxlUQv5psf9tO" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T23:39:16.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="WwoC04ZgMA2d8oHZiuV-" version="21.6.6" type="github">
   <diagram name="Page-1" id="0YCbhX_S92xvmTo_ts1A">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="4e2xofCWQZZ0qBrgJeqL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4e2xofCWQZZ0qBrgJeqL-34" target="4e2xofCWQZZ0qBrgJeqL-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4e2xofCWQZZ0qBrgJeqL-49" value="id_tiket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4e2xofCWQZZ0qBrgJeqL-44">
+        <mxCell id="4e2xofCWQZZ0qBrgJeqL-49" value="&lt;div&gt;id_tiket&lt;/div&gt;&lt;div&gt;nama_tiket&lt;/div&gt;&lt;div&gt;deskripsi_masalah&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4e2xofCWQZZ0qBrgJeqL-44">
           <mxGeometry x="-0.4535" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
