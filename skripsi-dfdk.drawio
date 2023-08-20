@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T17:19:04.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.6" etag="VxuMTodUXkDyZP7fL31d" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T17:52:31.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="sO20D3M0QJRQazL5lBVH" version="21.6.6" type="github">
   <diagram name="Page-1" id="TSIzAAsF8sugx_9lJElB">
-    <mxGraphModel>
+    <mxGraphModel dx="896" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.015;exitY=0.375;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="tFCjYT2VnPAFKEIBiJHw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.00000000000006" y="350" as="sourcePoint" />
+            <mxPoint x="339.6799999999999" y="350.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-14" value="laporan_tiket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tFCjYT2VnPAFKEIBiJHw-13">
+          <mxGeometry x="0.137" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-3" value="Sistem Aplikasi Helpdesk Ticketing" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFCjYT2VnPAFKEIBiJHw-6" target="tFCjYT2VnPAFKEIBiJHw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-5" value="&lt;div&gt;deskripsi-solusi&lt;/div&gt;&lt;div&gt;status-tiket&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tFCjYT2VnPAFKEIBiJHw-4">
+          <mxGeometry x="0.0311" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-6" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.407;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="341.4399999999999" y="390" as="sourcePoint" />
+            <mxPoint x="450.00000000000006" y="390.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-8" value="&lt;div&gt;username&lt;/div&gt;&lt;div&gt;password&lt;/div&gt;&lt;div&gt;detail-user&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tFCjYT2VnPAFKEIBiJHw-7">
+          <mxGeometry x="-0.0545" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-9" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFCjYT2VnPAFKEIBiJHw-10" target="tFCjYT2VnPAFKEIBiJHw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-12" value="deskripsi-masalah" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tFCjYT2VnPAFKEIBiJHw-11">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFCjYT2VnPAFKEIBiJHw-10" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
