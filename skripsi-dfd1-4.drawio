@@ -1,32 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T23:45:30.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="fBWfoBw6W6_y798aGWTE" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T08:53:05.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="owgBOkU8fC-ZOi40ozFD" version="22.1.18" type="github" pages="2">
   <diagram name="Page-1" id="0w4uvRNzErccZmE5DoYm">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zL1TShANC0HEMnAT1-am-8" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zL1TShANC0HEMnAT1-am-8" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zL1TShANC0HEMnAT1-am-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zL1TShANC0HEMnAT1-am-11" target="zL1TShANC0HEMnAT1-am-14">
+        <mxCell id="zL1TShANC0HEMnAT1-am-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zL1TShANC0HEMnAT1-am-11" target="zL1TShANC0HEMnAT1-am-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zL1TShANC0HEMnAT1-am-18" value="&lt;div&gt;id_tiket&lt;/div&gt;&lt;div&gt;nama_tiket&lt;/div&gt;&lt;div&gt;durasi_tiket&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zL1TShANC0HEMnAT1-am-15">
+        <mxCell id="zL1TShANC0HEMnAT1-am-18" value="&lt;div&gt;id_tiket&lt;/div&gt;&lt;div&gt;nama_tiket&lt;/div&gt;&lt;div&gt;durasi_tiket&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zL1TShANC0HEMnAT1-am-15" vertex="1" connectable="0">
           <mxGeometry x="0.0333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zL1TShANC0HEMnAT1-am-11" value="Data Tiket" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="zL1TShANC0HEMnAT1-am-11" value="Data Tiket" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zL1TShANC0HEMnAT1-am-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zL1TShANC0HEMnAT1-am-14" target="zL1TShANC0HEMnAT1-am-8">
+        <mxCell id="zL1TShANC0HEMnAT1-am-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zL1TShANC0HEMnAT1-am-14" target="zL1TShANC0HEMnAT1-am-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zL1TShANC0HEMnAT1-am-17" value="laporan_tiket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zL1TShANC0HEMnAT1-am-16">
+        <mxCell id="zL1TShANC0HEMnAT1-am-17" value="laporan_tiket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zL1TShANC0HEMnAT1-am-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0111" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zL1TShANC0HEMnAT1-am-14" value="4.1 Proses Pelaporan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zL1TShANC0HEMnAT1-am-14" value="4.1 Proses Pelaporan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="180" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XrV3eeVV35HJcjlku4Kh" name="after revisi">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XosPcF3xBGX23g58wv1J-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XosPcF3xBGX23g58wv1J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XosPcF3xBGX23g58wv1J-4" target="XosPcF3xBGX23g58wv1J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XosPcF3xBGX23g58wv1J-3" value="data_tiket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XosPcF3xBGX23g58wv1J-2">
+          <mxGeometry x="0.0333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XosPcF3xBGX23g58wv1J-4" value="Data Tiket" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XosPcF3xBGX23g58wv1J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XosPcF3xBGX23g58wv1J-7" target="XosPcF3xBGX23g58wv1J-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XosPcF3xBGX23g58wv1J-6" value="laporan_tiket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XosPcF3xBGX23g58wv1J-5">
+          <mxGeometry x="-0.0111" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XosPcF3xBGX23g58wv1J-7" value="4.1 Proses Pelaporan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
