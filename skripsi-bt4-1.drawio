@@ -1,41 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T08:47:49.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="RuRrQxsGodS0tjqD7G9F" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T20:01:01.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="PUK4sBK0uVtGGhrz1P2E" version="23.1.5" type="github" pages="2">
   <diagram name="Page-1" id="HtI5pIquW2iRP8JEWeIP">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7Qs3C3Ygpp_gJc_5n-tw-2" target="7Qs3C3Ygpp_gJc_5n-tw-5">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7Qs3C3Ygpp_gJc_5n-tw-2" target="7Qs3C3Ygpp_gJc_5n-tw-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-2" value="Laporan Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-2" value="Laporan Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="540" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7Qs3C3Ygpp_gJc_5n-tw-4" target="7Qs3C3Ygpp_gJc_5n-tw-2">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7Qs3C3Ygpp_gJc_5n-tw-4" target="7Qs3C3Ygpp_gJc_5n-tw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-4" value="Baca Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-4" value="Baca Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="460" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-5" value="Cetak Laporan Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-5" value="Cetak Laporan Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="620" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-6" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-6" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="280" as="sourcePoint" />
             <mxPoint x="530" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-7" value="input" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7Qs3C3Ygpp_gJc_5n-tw-6">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-7" value="input" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="7Qs3C3Ygpp_gJc_5n-tw-6" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="240" as="sourcePoint" />
             <mxPoint x="670" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-9" value="output" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7Qs3C3Ygpp_gJc_5n-tw-8">
+        <mxCell id="7Qs3C3Ygpp_gJc_5n-tw-9" value="output" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="7Qs3C3Ygpp_gJc_5n-tw-8" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D_EbL7XplUKmPSCjARsj" name="after revisi">
+    <mxGraphModel dx="844" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bch_ADAgTUJzIN0CzgIY-7" target="bch_ADAgTUJzIN0CzgIY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-7" value="Proses Laporan Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="bch_ADAgTUJzIN0CzgIY-9" target="bch_ADAgTUJzIN0CzgIY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-9" value="Baca Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-10" value="Cetak Laporan Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-11" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="290" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-12" value="data tiket" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="bch_ADAgTUJzIN0CzgIY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-13" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="230" as="sourcePoint" />
+            <mxPoint x="690" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-14" value="data tiket" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="bch_ADAgTUJzIN0CzgIY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-39" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-40" value="periode" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="bch_ADAgTUJzIN0CzgIY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-41" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bch_ADAgTUJzIN0CzgIY-42" value="filter" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="bch_ADAgTUJzIN0CzgIY-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
