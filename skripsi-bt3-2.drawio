@@ -1,41 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T08:43:55.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ZjiNf_FXc7Xh8kSW7nWB" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T19:55:37.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="GV-FJXB8mgsGqABHy1Fc" version="23.1.5" type="github" pages="2">
   <diagram name="Page-1" id="SpgRarRRCG3F34AlmkMo">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aGR73oSrQ2dSOkmDQVMx-2" target="aGR73oSrQ2dSOkmDQVMx-5">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="aGR73oSrQ2dSOkmDQVMx-2" target="aGR73oSrQ2dSOkmDQVMx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-2" value="Edit Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-2" value="Edit Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="540" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aGR73oSrQ2dSOkmDQVMx-4" target="aGR73oSrQ2dSOkmDQVMx-2">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="aGR73oSrQ2dSOkmDQVMx-4" target="aGR73oSrQ2dSOkmDQVMx-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-4" value="Baca Update Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-4" value="Baca Update Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="460" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-5" value="Simpan Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-5" value="Simpan Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="620" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-6" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-6" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="280" as="sourcePoint" />
             <mxPoint x="530" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-7" value="input" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="aGR73oSrQ2dSOkmDQVMx-6">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-7" value="input" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="aGR73oSrQ2dSOkmDQVMx-6" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="240" as="sourcePoint" />
             <mxPoint x="670" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGR73oSrQ2dSOkmDQVMx-9" value="output" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="aGR73oSrQ2dSOkmDQVMx-8">
+        <mxCell id="aGR73oSrQ2dSOkmDQVMx-9" value="output" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="aGR73oSrQ2dSOkmDQVMx-8" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Djd73nhat4ntt4GboKFQ" name="after revisi">
+    <mxGraphModel dx="574" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="grxWi_BGMTnMMcNRY4ah-12" target="grxWi_BGMTnMMcNRY4ah-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grxWi_BGMTnMMcNRY4ah-12" target="grxWi_BGMTnMMcNRY4ah-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-12" value="Proses Edit Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="grxWi_BGMTnMMcNRY4ah-14" target="grxWi_BGMTnMMcNRY4ah-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-14" value="Baca Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-15" value="Simpan Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-16" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="530" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-17" value="data tiket" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-18" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="230" as="sourcePoint" />
+            <mxPoint x="690" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-19" value="data tiket" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-20" value="Edit Data Tiket" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-21" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="603" y="240" as="sourcePoint" />
+            <mxPoint x="603" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-22" value="data lama" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-23" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="290" as="sourcePoint" />
+            <mxPoint x="556" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-24" value="data baru" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-25" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="220" as="sourcePoint" />
+            <mxPoint x="710" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-26" value="simpan" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-27" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-28" value="id tiket" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-31" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grxWi_BGMTnMMcNRY4ah-32" value="filter" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="grxWi_BGMTnMMcNRY4ah-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
