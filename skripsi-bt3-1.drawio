@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T19:01:03.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="GMXtriKPsDTJA5MBrUsj" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-20T19:01:31.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="vdZ4U_8O2zJSUoBW3U-l" version="23.1.5" type="github" pages="2">
   <diagram name="Page-1" id="QxDHDtE9BOgBhxpARyah">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -101,6 +101,17 @@
         </mxCell>
         <mxCell id="0hpq7D2lim1xG2hGoPjV-15" value="id tiket" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="0hpq7D2lim1xG2hGoPjV-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hpq7D2lim1xG2hGoPjV-17" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="220" as="sourcePoint" />
+            <mxPoint x="710" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hpq7D2lim1xG2hGoPjV-18" value="simpan" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="0hpq7D2lim1xG2hGoPjV-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
