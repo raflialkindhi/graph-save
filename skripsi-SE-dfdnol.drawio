@@ -15,8 +15,11 @@
         <mxCell id="kcBWBWOhUb0BkIQ40z4R-1" value="1.0 Proses Pengaduan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kcBWBWOhUb0BkIQ40z4R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcBWBWOhUb0BkIQ40z4R-2" target="kcBWBWOhUb0BkIQ40z4R-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kcBWBWOhUb0BkIQ40z4R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="367" as="sourcePoint" />
+            <mxPoint x="500" y="367" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kcBWBWOhUb0BkIQ40z4R-15" value="deskripsi_solusi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kcBWBWOhUb0BkIQ40z4R-12">
           <mxGeometry x="0.0933" relative="1" as="geometry">
@@ -82,6 +85,17 @@
         </mxCell>
         <mxCell id="kcBWBWOhUb0BkIQ40z4R-6" value="Head IT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcBWBWOhUb0BkIQ40z4R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="500" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcBWBWOhUb0BkIQ40z4R-23" value="konfirmasi_selesai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kcBWBWOhUb0BkIQ40z4R-22">
+          <mxGeometry x="0.0933" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
